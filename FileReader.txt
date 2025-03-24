@@ -1,0 +1,13 @@
+Java is a programming language that was developed by James Gosling of Sun Microsystems.
+It was released in 1995 and is a key part of the Sun Java platform.
+Java is a widely used programming language that can run on many devices and operating systems.
+
+Features of Java :-
+Java is Easy to learn and use
+Java is Object-oriented programming
+Java is Platform independence
+Java does Automatic memory management
+Java is Secure
+Java has Rich API
+Java supports Multithreading
+Java provides High performance
