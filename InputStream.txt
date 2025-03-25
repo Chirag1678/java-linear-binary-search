@@ -1,0 +1,4 @@
+Hello, this is a test file.
+It contains multiple lines.
+This file is encoded in UTF-8.
+Enjoy reading this file using InputStreamReader!
